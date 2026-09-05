@@ -7,6 +7,7 @@ local byPlace = {
     [137228775845999] = "ZinnywareGhost.lua",     -- Ghost Driver
     [108628039999641] = "ZinnywareNeedle.lua",    -- Search For The Needle (map)
     [107778070777162] = "ZinnywareEgg.lua",
+    [122572082932179] = "ZinnywareSellOres.lua",
 }
 
 local file = byPlace[game.PlaceId]
