@@ -9,6 +9,7 @@ local byPlace = {
     [107778070777162] = "ZinnywareEgg.lua",
     [122572082932179] = "ZinnywareSellOres.lua",
     [114697347887839] = "ZinnywareMonkey.lua",    -- +1 Speed Monkey Escape
+    [3351674303]      = "ZinnywareEmpire.lua",
 }
 
 local file = byPlace[game.PlaceId]
